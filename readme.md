@@ -1,3 +1,6 @@
+# Video
+https://www.youtube.com/watch?v=ZUI-I5kiQRM
+
 # Repository
 https://github.com/codingblocks/getting-started-with-skaffold
 
