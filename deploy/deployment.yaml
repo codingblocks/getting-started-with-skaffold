@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: www
+  name: www
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: www
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: www
+    spec:
+      containers:
+      - image: www
+        name: www
