@@ -8,4 +8,4 @@ https://github.com/codingblocks/getting-started-with-skaffold
 https://skaffold.dev/docs/install/
 
 # Skaffold Quickstart
-https://skaffold.dev/docs/install/
+https://skaffold.dev/docs/quickstart/
